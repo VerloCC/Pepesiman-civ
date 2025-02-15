@@ -27,7 +27,7 @@
 		"afterPeace": "Cheers.",
 		"tradeRequest": "This is reasonable, no?",
 
-		"outerColor": [0, 0, 255],
+		"outerColor": [255, 255, 255],
 		"innerColor": [255,0,0],
 		"uniqueName": "PepsiCo's code of conduct.",
 		"uniques": ["[+10]% [Happiness]","[+10]% growth [in all cities]", "[+10]% [Gold] [in all cities]"],
