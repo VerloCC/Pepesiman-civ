@@ -3,7 +3,7 @@
 		"name": "PepsiCo",
 		"leaderName": "Pepsi Man",
 		"adjective": ["Pepsian"],
-		"startBias": ["Mountain"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "PEPSI MAN!",
