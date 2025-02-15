@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Pepsi Factory",
-		"happiness": 5,
-		"cost": 100,
+		"happiness": 3,
+		"food": 3,
+		"cost": 250,
 		"requiredTech": "Radio"
-		"maintenance": 1,
-		"uniqueTo": "The Empire of Aurelian Ascendancy"
-		"uniques": ["Will not be displayed in Civilopedia"]
+		"maintenance": 2,
+		"uniqueTo": "PepsiCo"
 	}
 ]
