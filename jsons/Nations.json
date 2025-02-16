@@ -27,8 +27,8 @@
 		"afterPeace": "Cheers.",
 		"tradeRequest": "This is reasonable, no?",
 
-		"outerColor": [255, 255, 255],
-		"innerColor": [255,0,0],
+		"outerColor": [255, 0, 0],
+		"innerColor": [255,255,255],
 		"uniqueName": "PepsiCo's code of conduct.",
 		"uniques": ["[+10]% [Happiness]","[+10]% growth [in all cities]", "[+10]% [Gold] [in all cities]"],
 		"cities": ["Soda Springs", "Cola Cove", "Fizzington", "Refreshment Ridge", "Bubblington", "Pepsi Plains", "BlueCan Bay", "Sparkling City", "Pepstown", "Fountain Falls", "Caffeina"]
